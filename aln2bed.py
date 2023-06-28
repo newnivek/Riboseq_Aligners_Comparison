@@ -1,3 +1,4 @@
+import sys
 aln_file = sys.argv[1]
 bed_file = sys.argv[2]
 
